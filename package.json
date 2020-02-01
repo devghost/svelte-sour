@@ -20,7 +20,7 @@
     "url": "https://github.com/devghost/picovis-sour/issues"
   },
   "homepage": "https://github.com/devghost/picovis-sour#readme",
-  "devDependencies": {
+  "dependencies": {
     "page.js": "^4.13.3"
   }
 }
